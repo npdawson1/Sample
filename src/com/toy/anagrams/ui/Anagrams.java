@@ -1,4 +1,5 @@
 /*
+ * TEST
  * Copyright (c) 2010, Oracle.
  * All rights reserved.
  *
